@@ -1,6 +1,5 @@
-![](https://coollife.revolve.media/wp-content/uploads/2023/01/CoolLIFE-color.svg)
-
-https://coollife.revolve.media/
+- [CoolLIFE Project Wiki](https://coollife-project.github.io/wiki/)
+- [Official Site](https://coollife.revolve.media/)
 
 <!--
 
